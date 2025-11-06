@@ -3,4 +3,4 @@ Sharkfest EU 2025 Talk
 
 - sfeu25-webrtc.zip - Wireshark Profile
 - SFEU25_Robert_HessMaking_WebRTC_Work.pdf - Slides
-- [SFEU25-WebRTC-Switch-Goto-Sample.pcapng.zip](https://github.com/rohess/sfeu25/blob/main/SFEU25-WebRTC-Switch-Goto-Sample.pcapng.zip) - Sample pcap
+- [SFEU25-WebRTC-Switch-Goto-Sample.pcapng.zip](https://github.com/rohess/sfeu25/blob/main/SFEU25-WebRTC-Switch-Goto-Sample.pcapng.zip "Capture file") - Sample pcap
