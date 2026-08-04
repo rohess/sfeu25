@@ -1,5 +1,5 @@
 # sfeu25
-Sharkfest EU 2025 Talk
+Sharkfest Europe Warsaw 2025 Talk
 
 - [sfeu25-webrtc.zip](https://github.com/rohess/sfeu25/raw/refs/heads/main/sfeu25-webrtc.zip "Profile") - Wireshark Profile
 - [SFEU25_Robert_HessMaking_WebRTC_Work.pdf](https://github.com/rohess/sfeu25/raw/refs/heads/main/SFEU25_Robert_HessMaking_WebRTC_Work.pdf "Slides") - Slides
